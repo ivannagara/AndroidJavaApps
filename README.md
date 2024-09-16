@@ -9,4 +9,5 @@ Project Specs :
 - Usage of Recycler View to display the contacts
 - Adding and Deleting contacts to/form the database
 - Drag left to delete contact
+- Passing data between activities
 
